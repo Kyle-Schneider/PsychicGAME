@@ -1,25 +1,40 @@
-body {
-    background-color:purple;
-    background-image: 
-    http://www.advisoruniverse.info/wp-content/uploads/2017/01/00000000-1.jpg
+
+.jumbotron{
+    background-image: url(http://donnamariecrawford.com/psychicblog/wp-content/uploads/2013/06/psychic-readings-by-donna-marie-purple.jpg);
 }
 
+h1 {
+    background-color: plum;
+    color:black;
+    font-family: cursive;
+    text-align: center;
+    border: white dotted 30px;
+}
 
-#hand {
-    background-color: slateblue;
-    float:right;
-    padding:25px;
-    border: solid,pink, 25px;
+h3 {
+    text-align: center;
+    background-color: plum;
+}
+
+.span{
+    background-color: plum;
+}
+
+body {
+    background-color:purple;
 }
 
 h2 {
-    text-align: center;
-    color: blue;
-    background-color:red;
-    border: solid pink 25px;
+    background-color: plum;
+    color:darkblue;
 }
 
+
+
 #game {
-    background-color: turquoise;
-    color:white;
+    text-align: center;
 }
+
+
+
+

@@ -54,6 +54,7 @@ document.onkeyup = function (event) {
         document.getElementById("wins").innerHTML = wins;
 
         letterArray.splice(secretLetter, 1);
+        document.getElementById("ball").innerHTML = '<img src="http://www.advisoruniverse.info/wp-content/uploads/2017/01/00000000-1.jpg">'
         resetGame();
     }
 
